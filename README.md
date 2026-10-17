@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pranshu Tiwari
 
-### 💻 Java Developer
+### ☕ Java Developer
 
 - 🚀 I'm currently working on **Turulobe** (a dating website)
 - 📚 I'm currently learning **Spring Boot, MERN, PostgreSQL**
