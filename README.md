@@ -33,13 +33,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [Advanced ATM System](https://github.com/PranshuTiwari28/-Advanced-ATM-System-) | Simulation of real-world ATM operations with secure transactions, user authentication and account management (Java) |
-| Turulobe | Dating website (work in progress) |
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| [Advanced ATM System](https://github.com/PranshuTiwari28/-Advanced-ATM-System-) | Simulation of real-world ATM operations with secure transactions, user authentication and account management | Java | ✅ Completed |
+| [Guess Number](https://github.com/PranshuTiwari28/YOUR_GUESS_NUMBER_REPO) | A number guessing game where the player tries to find the secret number | YOUR_TECH | ✅ Completed |
+| Turulobe | A dating website | YOUR_TECH | 🚧 In progress |
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
-![Pranshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranshuTiwari28&show_icons=true&theme=radical)
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PranshuTiwari28&show_icons=true&theme=radical" alt="Pranshu's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuTiwari28&layout=compact&theme=radical" alt="Most used languages" />
+</p>
