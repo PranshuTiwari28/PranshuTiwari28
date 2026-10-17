@@ -2,13 +2,14 @@
 
 <h3 align="center">☕ Java Developer</h3>
 
-- 🚀 I'm currently working on **Turulobe** (a dating website)
-- 📚 I'm currently learning **Spring Boot, MERN, PostgreSQL**
-- 🤝 I'm looking to collaborate on **Java projects, JavaScript projects and Problem Solving**
-- 🗂️ All of my projects are available at https://github.com/PranshuTiwari28
-- 🧠 Ask me about **Java, DSA, JavaScript**
-- 📧 How to reach me: **pranshu1083@gmail.com**
-- 😄 Fun fact: **I am always happy**
+- 🚀 I'm currently working on **Turulobe** (a dating website).
+- 📚 I'm currently learning **Spring Boot, MERN, PostgreSQL**.
+- 🤝 I'm looking to collaborate on **Java projects, JavaScript projects and Problem Solving**.
+- 🗂️ All of my projects are available at https://github.com/PranshuTiwari28.
+- 🧠 Ask me about **Java, DSA, JavaScript**.
+- 📧 How to reach me: **pranshu1083@gmail.com**.
+- 😄 Fun fact: **I am always happy**.
+- 💻 I love Problem Solving.
 
 ### Connect with me:
 
