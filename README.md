@@ -1,6 +1,6 @@
-# Hi 👋, I'm Pranshu Tiwari
+<h1 align="center">Hi 👋, I'm Pranshu Tiwari</h1>
 
-### ☕ Java Developer
+<h3 align="center">☕ Java Developer</h3>
 
 - 🚀 I'm currently working on **Turulobe** (a dating website)
 - 📚 I'm currently learning **Spring Boot, MERN, PostgreSQL**
@@ -38,7 +38,7 @@
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | [Advanced ATM System](https://github.com/PranshuTiwari28/-Advanced-ATM-System-) | Simulation of real-world ATM operations with secure transactions, user authentication and account management | Java | ✅ Completed |
-| [Guess Number Game](https://github.com/PranshuTiwari28/GuessNumberGame) | A simple game where users try to guess a randomly generated number | HTML, CSS, JavaScript | ✅ Completed |
+| [Guess Number Game](https://github.com/PranshuTiwari28/GuessNumberGame) · [🌐 Live](https://pranshu-tiwari-guess-number.netlify.app/) | A simple game where users try to guess a randomly generated number | HTML, CSS, JavaScript | ✅ Completed |
 | Turulobe | A dating website | — | 🚧 In progress |
 
 ### 📊 GitHub Stats:
