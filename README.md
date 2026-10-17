@@ -38,8 +38,8 @@
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | [Advanced ATM System](https://github.com/PranshuTiwari28/-Advanced-ATM-System-) | Simulation of real-world ATM operations with secure transactions, user authentication and account management | Java | ✅ Completed |
-| [Guess Number](https://github.com/PranshuTiwari28/YOUR_GUESS_NUMBER_REPO) | A number guessing game where the player tries to find the secret number | YOUR_TECH | ✅ Completed |
-| Turulobe | A dating website | YOUR_TECH | 🚧 In progress |
+| [Guess Number Game](https://github.com/PranshuTiwari28/GuessNumberGame) | A simple game where users try to guess a randomly generated number | HTML, CSS, JavaScript | ✅ Completed |
+| Turulobe | A dating website | — | 🚧 In progress |
 
 ### 📊 GitHub Stats:
 
