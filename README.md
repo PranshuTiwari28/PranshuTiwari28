@@ -45,5 +45,8 @@
 
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PranshuTiwari28&show_icons=true&theme=radical" alt="Pranshu's GitHub stats" />
+</p>
+
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuTiwari28&layout=compact&theme=radical" alt="Most used languages" />
 </p>
