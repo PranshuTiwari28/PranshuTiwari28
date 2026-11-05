@@ -44,18 +44,8 @@
 
 ### 📊 GitHub Stats:
 
-<!--
-  If these images still don't load, the public Vercel host is rate-limited.
-  Deploy your own copy of github-readme-stats and replace
-  "github-readme-stats.vercel.app" below with "YOUR-PROJECT.vercel.app".
--->
-
 <p>
-  <img height="180" alt="Pranshu's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=PranshuTiwari28&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p>
-  <img height="180" alt="Most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuTiwari28&layout=compact&langs_count=10&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="180" alt="Stats" src="./profile-summary-card-output/radical/3-stats.svg" />
+  <img height="180" alt="Most used languages" src="./profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img height="180" alt="Most commit languages" src="./profile-summary-card-output/radical/2-most-commit-language.svg" />
 </p>
